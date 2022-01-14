@@ -1,0 +1,378 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{DAGMG{\etalchar{+}}20}
+
+\bibitem[AAUS{\etalchar{+}}19]{ayaz_internet--things_2019}
+Muhammad Ayaz, Mohammad Ammad-Uddin, Zubair Sharif, Ali Mansour, and El-Hadi~M.
+  Aggoune.
+\newblock Internet-of-{Things} ({IoT})-{Based} {Smart} {Agriculture}: {Toward}
+  {Making} the {Fields} {Talk}.
+\newblock {\em IEEE Access}, 7:129551--129583, 2019.
+
+\bibitem[BADC20]{bosilj_transfer_2020}
+Petra Bosilj, Erchan Aptoula, Tom Duckett, and Grzegorz Cielniak.
+\newblock Transfer learning between crop types for semantic segmentation of
+  crops versus weeds in precision agriculture.
+\newblock {\em Journal of Field Robotics}, 37(1):7--19, January 2020.
+
+\bibitem[BHC18]{bah_deep_2018}
+M~Bah, Adel Hafiane, and Raphael Canals.
+\newblock Deep {Learning} with {Unsupervised} {Data} {Labeling} for {Weed}
+  {Detection} in {Line} {Crops} in {UAV} {Images}.
+\newblock {\em Remote Sensing}, 10(11):1690, October 2018.
+
+\bibitem[BP20]{bhadra_weed_2020}
+Tamalika Bhadra and Swapan Paul.
+\newblock Weed management in sugar beet: {A} review.
+\newblock {\em Fundamental and Applied Agriculture}, 5(0):1, 2020.
+
+\bibitem[Can88]{candolo_diserbo_1988}
+G~Candolo.
+\newblock Diserbo chimico: obiettivo volumi ridotti.
+\newblock {\em Informatore Agrario}, 44:75--78 (50), 1988.
+
+\bibitem[CLS{\etalchar{+}}17]{chebrolu_agricultural_2017}
+Nived Chebrolu, Philipp Lottes, Alexander Schaefer, Wera Winterhalter, Wolfram
+  Burgard, and Cyrill Stachniss.
+\newblock Agricultural robot dataset for plant classification, localization and
+  mapping on sugar beet fields.
+\newblock {\em The International Journal of Robotics Research},
+  36(10):1045--1052, September 2017.
+
+\bibitem[CM10]{cioni_weed_2010}
+Franco Cioni and Gianfranco Maines.
+\newblock Weed {Control} in {Sugarbeet}.
+\newblock {\em Sugar Tech}, 12(3-4):243--255, December 2010.
+
+\bibitem[DAGMG{\etalchar{+}}20]{dadashzadeh_weed_2020}
+Mojtaba Dadashzadeh, Yousef Abbaspour-Gilandeh, Tarahom Mesri-Gundoshmian,
+  Sajad Sabzi, José~Luis Hernández-Hernández, Mario Hernández-Hernández,
+  and Juan~Ignacio Arribas.
+\newblock Weed {Classification} for {Site}-{Specific} {Weed} {Management}
+  {Using} an {Automated} {Stereo} {Computer}-{Vision} {Machine}-{Learning}
+  {System} in {Rice} {Fields}.
+\newblock {\em Plants}, 9(5):559, April 2020.
+
+\bibitem[DCPGP17]{di_cicco_automatic_2017}
+Maurilio Di~Cicco, Ciro Potena, Giorgio Grisetti, and Alberto Pretto.
+\newblock Automatic model based dataset generation for fast and accurate crop
+  and weeds detection.
+\newblock In {\em 2017 {IEEE}/{RSJ} {International} {Conference} on
+  {Intelligent} {Robots} and {Systems} ({IROS})}, pages 5188--5195, Vancouver,
+  BC, September 2017. IEEE.
+
+\bibitem[DMP82]{duncan_basis_1982}
+D.N. Duncan, W.F. Meggit, and D.~Penner.
+\newblock Basis for increased activity from herbicide combinations with
+  ethofumesate applied on sugarbeet ({Beta} vulgaris).
+\newblock {\em Weed Science}, pages 195--200, 1982.
+
+\bibitem[FJHZ19]{farooq_multi-resolution_2019}
+Adnan Farooq, Xiuping Jia, Jiankun Hu, and Jun Zhou.
+\newblock Multi-{Resolution} {Weed} {Classification} via {Convolutional}
+  {Neural} {Network} and {Superpixel} {Based} {Local} {Binary} {Pattern}
+  {Using} {Remote} {Sensing} {Images}.
+\newblock {\em Remote Sensing}, 11(14):1692, July 2019.
+
+\bibitem[FMF{\etalchar{+}}14]{frasconi_design_2014}
+C.~Frasconi, L.~Martelloni, M.~Fontanelli, M.~Raffaelli, L.~Emmi, Michel
+  Pirchio, and A.~Peruzzi.
+\newblock Design and full realization of physical weed control ({PWC})
+  automated machine within the {RHEA} project.
+\newblock 2014.
+
+\bibitem[GFP{\etalchar{+}}20]{gao_deep_2020}
+Junfeng Gao, Andrew~P. French, Michael~P. Pound, Yong He, Tony~P. Pridmore, and
+  Jan~G. Pieters.
+\newblock Deep convolutional neural networks for image-based {Convolvulus}
+  sepium detection in sugar beet fields.
+\newblock {\em Plant Methods}, 16(1):29, December 2020.
+
+\bibitem[GIC20]{glaroudis_survey_2020}
+Dimitrios Glaroudis, Athanasios Iossifides, and Periklis Chatzimisios.
+\newblock Survey, comparison and research challenges of {IoT} application
+  protocols for smart farming.
+\newblock {\em Computer Networks}, 168:107037, February 2020.
+
+\bibitem[GO06]{gerhards_practical_2006}
+R~Gerhards and H~Oebel.
+\newblock Practical experiences with a system for site-specific weed control in
+  arable crops using real-time image analysis and {GPS}-controlled patch
+  spraying.
+\newblock {\em Weed Research}, 46(3):185--193, June 2006.
+
+\bibitem[Gö17]{gotze_impact_2017}
+Philipp Götze.
+\newblock Impact of specialised sugar beet crop rotations on soil fertility
+  parameters and on yield and yield stability of sugar beet.
+\newblock pages 1 Online--Ressource (147 Seiten), 2017.
+\newblock Artwork Size: 1 Online-Ressource (147 Seiten) Publisher:
+  Universitäts- und Landesbibliothek Sachsen-Anhalt.
+
+\bibitem[HC77]{holm_worlds_1977}
+LeRoy~G. Holm and East-West Center, editors.
+\newblock {\em The {World}'s worst weeds: distribution and biology}.
+\newblock Published for the East-West Center by the University Press of Hawaii,
+  Honolulu, 1977.
+
+\bibitem[HDL{\etalchar{+}}18]{huang_accurate_2018}
+Huasheng Huang, Jizhong Deng, Yubin Lan, Aqing Yang, Xiaoling Deng, Sheng Wen,
+  Huihui Zhang, and Yali Zhang.
+\newblock Accurate {Weed} {Mapping} and {Prescription} {Map} {Generation}
+  {Based} on {Fully} {Convolutional} {Networks} {Using} {UAV} {Imagery}.
+\newblock {\em Sensors}, 18(10):3299, October 2018.
+
+\bibitem[HLY{\etalchar{+}}20]{huang_deep_2020}
+Huasheng Huang, Yubin Lan, Aqing Yang, Yali Zhang, Sheng Wen, and Jizhong Deng.
+\newblock Deep learning versus {Object}-based {Image} {Analysis} ({OBIA}) in
+  weed mapping of {UAV} imagery.
+\newblock {\em International Journal of Remote Sensing}, 41(9):3446--3479, May
+  2020.
+
+\bibitem[HSD{\etalchar{+}}21]{hasan_survey_2021}
+A.~S. M.~Mahmudul Hasan, Ferdous Sohel, Dean Diepeveen, Hamid Laga, and Michael
+  G.~K. Jones.
+\newblock A {Survey} of {Deep} {Learning} {Techniques} for {Weed} {Detection}
+  from {Images}.
+\newblock {\em arXiv:2103.01415 [cs]}, March 2021.
+\newblock arXiv: 2103.01415.
+
+\bibitem[Hug]{de_hugo_chenopodiumalbum001_nodate}
+De~Hugo.
+\newblock {ChenopodiumAlbum001}.
+
+\bibitem[IRP{\etalchar{+}}21]{islam_review_2021}
+Nahina Islam, Md~Mamunur Rashid, Faezeh Pasandideh, Biplob Ray, Steven Moore,
+  and Rajan Kadel.
+\newblock A {Review} of {Applications} and {Communication} {Technologies} for
+  {Internet} of {Things} ({IoT}) and {Unmanned} {Aerial} {Vehicle} ({UAV})
+  {Based} {Sustainable} {Smart} {Farming}.
+\newblock {\em Sustainability}, 13(4):1821, February 2021.
+
+\bibitem[IRW{\etalchar{+}}21]{islam_early_2021}
+Nahina Islam, Md~Mamunur Rashid, Santoso Wibowo, Cheng-Yuan Xu, Ahsan Morshed,
+  Saleh~A. Wasimi, Steven Moore, and Sk~Mostafizur Rahman.
+\newblock Early {Weed} {Detection} {Using} {Image} {Processing} and {Machine}
+  {Learning} {Techniques} in an {Australian} {Chilli} {Farm}.
+\newblock {\em Agriculture}, 11(5):387, April 2021.
+
+\bibitem[KAY{\etalchar{+}}21]{kawamura_discriminating_2021}
+Kensuke Kawamura, Hidetoshi Asai, Taisuke Yasuda, Pheunphit Soisouvanh, and
+  Sengthong Phongchanmixay.
+\newblock Discriminating crops/weeds in an upland rice field from {UAV} images
+  with the {SLIC}-{RF} algorithm.
+\newblock {\em Plant Production Science}, 24(2):198--215, April 2021.
+
+\bibitem[KS13]{kargar_automatic_2013}
+Amir H.~B. Kargar and A.~M. Shirzadifar.
+\newblock Automatic weed detection system and smart herbicide sprayer robot for
+  corn fields.
+\newblock In {\em 2013 {First} {RSI}/{ISM} {International} {Conference} on
+  {Robotics} and {Mechatronics} ({ICRoM})}, pages 468--473, Tehran, February
+  2013. IEEE.
+
+\bibitem[LBC{\etalchar{+}}18]{lottes_joint_2018}
+Philipp Lottes, Jens Behley, Nived Chebrolu, Andres Milioto, and Cyrill
+  Stachniss.
+\newblock Joint {Stem} {Detection} and {Crop}-{Weed} {Classification} for
+  {Plant}-{Specific} {Treatment} in {Precision} {Farming}.
+\newblock In {\em 2018 {IEEE}/{RSJ} {International} {Conference} on
+  {Intelligent} {Robots} and {Systems} ({IROS})}, pages 8233--8238, Madrid,
+  October 2018. IEEE.
+
+\bibitem[LBC{\etalchar{+}}20]{lottes_robust_2020}
+Philipp Lottes, Jens Behley, Nived Chebrolu, Andres Milioto, and Cyrill
+  Stachniss.
+\newblock Robust joint stem detection and crop-weed classification using image
+  sequences for plant-specific treatment in precision farming.
+\newblock {\em Journal of Field Robotics}, 37(1):20--34, January 2020.
+
+\bibitem[LCLS19]{lottes_uav-based_2019}
+Philipp Lottes, Nived Chebrolu, Frank Liebisch, and Cyrill Stachniss.
+\newblock {\em {UAV}-based {Field} {Monitoring} for {Precision} {Farming}
+  {UAV}-basierte {Feld} {Beobachtungen} für die {Präzisionsland}-
+  wirtschaft}.
+\newblock April 2019.
+
+\bibitem[LDP{\etalchar{+}}21]{lam_open_2021}
+Olee Hoi~Ying Lam, Marcel Dogotari, Moritz Prüm, Hemang~Narendra Vithlani,
+  Corinna Roers, Bethany Melville, Frank Zimmer, and Rolf Becker.
+\newblock An open source workflow for weed mapping in native grassland using
+  unmanned aerial vehicle: using \textit{{Rumex} obtusifolius} as a case study.
+\newblock {\em European Journal of Remote Sensing}, 54(sup1):71--88, February
+  2021.
+
+\bibitem[LHS{\etalchar{+}}16]{lottes_effective_2016}
+P.~Lottes, M.~Hoeferlin, S.~Sander, M.~Muter, P.~Schulze, and Lammers~C.
+  Stachniss.
+\newblock An effective classification system for separating sugar beets and
+  weeds for precision farming applications.
+\newblock In {\em 2016 {IEEE} {International} {Conference} on {Robotics} and
+  {Automation} ({ICRA})}, pages 5157--5163, Stockholm, Sweden, May 2016. IEEE.
+
+\bibitem[LY20]{lu_survey_2020}
+Yuzhen Lu and Sierra Young.
+\newblock A survey of public datasets for computer vision tasks in precision
+  agriculture.
+\newblock {\em Computers and Electronics in Agriculture}, 178:105760, November
+  2020.
+
+\bibitem[MAD{\etalchar{+}}19]{mulham_crop_2019}
+Fawakherji Mulham, Youssef Aliaa, Bloisi D., Pretto A., and Nardi D.
+\newblock Crop and {Weeds} {Classification} for {Precision} {Agriculture}
+  {Using} {Context}-{Independent} {Pixel}-{Wise} {Segmentation}.
+\newblock {\em 2019 Third IEEE International Conference on Robotic Computing
+  (IRC)}, pages 146--152, 2019.
+
+\bibitem[Mas91]{masclef_sugar_1891}
+Amédée Masclef.
+\newblock Sugar {Beet}, 1891.
+
+\bibitem[May03]{may_economic_2003}
+M~J May.
+\newblock Economic consequences for {UK} farmers of growing {GM} herbicide
+  tolerant sugar beet.
+\newblock {\em Annals of Applied Biology}, 142(1):41--48, February 2003.
+
+\bibitem[Med]{media_amaranthus_nodate}
+Lynk Media.
+\newblock Amaranthus retroflexus.
+
+\bibitem[MH85]{may_reduced_1985}
+M.~J. May and JG. Hilton.
+\newblock Reduced rates of pre-emergence herbicides (1982–1984).
+\newblock {\em 77th Report of the Norfolk agricultural station}, pages 14--21.,
+  1985.
+
+\bibitem[MLS17]{milioto_real-time_2017}
+A.~Milioto, P.~Lottes, and C.~Stachniss.
+\newblock {REAL}-{TIME} {BLOB}-{WISE} {SUGAR} {BEETS} {VS} {WEEDS}
+  {CLASSIFICATION} {FOR} {MONITORING} {FIELDS} {USING} {CONVOLUTIONAL} {NEURAL}
+  {NETWORKS}.
+\newblock {\em ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial
+  Information Sciences}, IV-2/W3:41--48, August 2017.
+
+\bibitem[MPK{\etalchar{+}}20]{machleb_sensor-based_2020}
+Jannis Machleb, Gerassimos~G. Peteinatos, Benjamin~L. Kollenda, Dionisio
+  Andújar, and Roland Gerhards.
+\newblock Sensor-based mechanical weed control: {Present} state and prospects.
+\newblock {\em Computers and Electronics in Agriculture}, 176:105638, September
+  2020.
+
+\bibitem[MPSG21]{machleb_sensor-based_2021}
+Jannis Machleb, Gerassimos~G. Peteinatos, Markus Sökefeld, and Roland
+  Gerhards.
+\newblock Sensor-{Based} {Intrarow} {Mechanical} {Weed} {Control} in {Sugar}
+  {Beets} with {Motorized} {Finger} {Weeders}.
+\newblock {\em Agronomy}, 11(8):1517, July 2021.
+
+\bibitem[MW06]{may_weeds_2006}
+M~J May and R.G. Wilson.
+\newblock Weeds and weed control.
+\newblock In {\em Sugar beet}, pages 359--386. Draycott A.P., 2006.
+
+\bibitem[MWA86]{meyer_konkurrenz_1986}
+H~Meyer, U.~Widmer, and H.U. Ammon.
+\newblock Konkurrenz der {Unkräuter} und {Einfuss} auf die
+  {Unkrautbekämpfungssysteme} im {Zuckerrübenbau}.
+\newblock {\em Proceedings of the 49th IIRB Congress.}, pages 263--275., 1986.
+
+\bibitem[OKP{\etalchar{+}}19]{olsen_deepweeds_2019}
+Alex Olsen, Dmitry~A. Konovalov, Bronson Philippa, Peter Ridd, Jake~C. Wood,
+  Jamie Johns, Wesley Banks, Benjamin Girgenti, Owen Kenny, James Whinney,
+  Brendan Calvert, Mostafa~Rahimi Azghadi, and Ronald~D. White.
+\newblock {DeepWeeds}: {A} {Multiclass} {Weed} {Species} {Image} {Dataset} for
+  {Deep} {Learning}.
+\newblock {\em Scientific Reports}, 9(1):2058, December 2019.
+
+\bibitem[Pet04]{petersen_review_2004}
+J.~Petersen.
+\newblock A {Review} on {Weed} {Control} in {Sug}- arbeet.
+\newblock {\em Inderjit (Ed), Weed Biology and Man- agement.}, 2004.
+
+\bibitem[PRSF{\etalchar{+}}14]{perez-ruiz_co-robotic_2014-1}
+Manuel Pérez-Ruíz, David~C. Slaughter, Fadi~A. Fathallah, Chris~J. Gliever,
+  and Brandon~J. Miller.
+\newblock Co-robotic intra-row weed control system.
+\newblock {\em Biosystems Engineering}, 126:45--55, October 2014.
+
+\bibitem[RAMP20]{ramirez_deep_2020}
+W.~Ramirez, P.~Achanccaray, L.~F. Mendoza, and M.~A.~C. Pacheco.
+\newblock {DEEP} {CONVOLUTIONAL} {NEURAL} {NETWORKS} {FOR} {WEED} {DETECTION}
+  {IN} {AGRICULTURAL} {CROPS} {USING} {OPTICAL} {AERIAL} {IMAGES}.
+\newblock {\em The International Archives of the Photogrammetry, Remote Sensing
+  and Spatial Information Sciences}, XLII-3/W12-2020:551--555, November 2020.
+
+\bibitem[Ras]{rasbak_kweek_nodate}
+Di~Rasbak.
+\newblock Kweek {Elytrigia} repens.
+
+\bibitem[RNSF20]{raja_real-time_2020}
+Rekha Raja, Thuy~T. Nguyen, David~C. Slaughter, and Steven~A. Fennimore.
+\newblock Real-time robotic weed knife control system for tomato and lettuce
+  based on geometric appearance of plant labels.
+\newblock {\em Biosystems Engineering}, 194:152--164, June 2020.
+
+\bibitem[SCP{\etalchar{+}}17]{sa_weednet_2017}
+Inkyu Sa, Zetao Chen, Marija Popovic, Raghav Khanna, Frank Liebisch, Juan
+  Nieto, and Roland Siegwart.
+\newblock {weedNet}: {Dense} {Semantic} {Weed} {Classification} {Using}
+  {Multispectral} {Images} and {MAV} for {Smart} {Farming}.
+\newblock {\em arXiv:1709.03329 [cs]}, September 2017.
+\newblock arXiv: 1709.03329.
+
+\bibitem[SD89]{schweizer_weed_1989}
+EE~Schweizer and A.G Dexter.
+\newblock "{Weed} control in sugarbeets ({Beta} vulgaris) in {North}
+  {America}".
+\newblock 1989.
+
+\bibitem[SGSS16]{singh_machine_2016}
+Arti Singh, Baskar Ganapathysubramanian, Asheesh~Kumar Singh, and Soumik
+  Sarkar.
+\newblock Machine {Learning} for {High}-{Throughput} {Stress} {Phenotyping} in
+  {Plants}.
+\newblock {\em Trends in Plant Science}, 21(2):110--124, 2016.
+
+\bibitem[SIHvH18]{suh_transfer_2018}
+Hyun~K. Suh, Joris IJsselmuiden, Jan~Willem Hofstee, and Eldert~J. van Henten.
+\newblock Transfer learning for the classification of sugar beet and volunteer
+  potato under field conditions.
+\newblock {\em Biosystems Engineering}, 174:50--65, October 2018.
+
+\bibitem[SPK{\etalchar{+}}18]{sa_weedmap_2018}
+Inkyu Sa, Marija Popović, Raghav Khanna, Zetao Chen, Philipp Lottes, Frank
+  Liebisch, Juan Nieto, Cyrill Stachniss, Achim Walter, and Roland Siegwart.
+\newblock {WeedMap}: {A} {Large}-{Scale} {Semantic} {Weed} {Mapping}
+  {Framework} {Using} {Aerial} {Multispectral} {Imaging} and {Deep} {Neural}
+  {Network} for {Precision} {Farming}.
+\newblock {\em Remote Sensing}, 10(9):1423, September 2018.
+
+\bibitem[TYDJY20]{trong_late_2020}
+Vo~Hoang Trong, Gwanghyun Yu, Vu~D., and Kim Jin-Young.
+\newblock Late fusion of multimodal deep neural networks for weeds
+  classification.
+\newblock {\em Comput. Electron. Agric.}, page 105506, 2020.
+
+\bibitem[Unk]{unknown_convolvulus_nodate}
+Unknown.
+\newblock Convolvulus arvensis.
+
+\bibitem[ZQ02]{zoschke_integrated_2002}
+Andreas Zoschke and Marco Quadranti.
+\newblock Integrated weed management: {Quo} vadis?
+\newblock {\em Weed Biology and Management}, 2(1):1--10, March 2002.
+
+\bibitem[ZVG12]{zanin_experimental_2012}
+G.~Zanin, V.~Vecchio, and J.~Gasquez.
+\newblock Experimental research on atrazine resistant populations of
+  broadleaved weeds.
+\newblock {\em Rivista di Agronomia}, 15, 2012.
+
+\bibitem[ZWH{\etalchar{+}}18]{zhang_weed_2018}
+Rufei Zhang, Cong Wang, Xiaoping Hu, Yixue Liu, Shan Chen, and Baofeng Su.
+\newblock Weed location and recognition based on {UAV} imaging and deep
+  learning.
+\newblock {\em International Journal of Precision Agricultural Aviation},
+  1(1):23--29, 2018.
+
+\end{thebibliography}

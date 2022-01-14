@@ -1,0 +1,82 @@
+\input{./latex/preamble.tex}
+
+\newcommand*{\mytitle}{Weed management in sugar beet farms: Quo Vadis?} % Titel
+\newcommand*{\myinstitute}{Hamm-Lippstadt University of Applied Sciences} % Institut
+
+
+\newcommand*{\myauthor}{Brodo Luca} % Autoren
+\newcommand*{\myreporttype}{Project Work} % Bericht-Typ
+\newcommand*{\mygraduation}{Electronic Engineering} % Vollständige Anschrift
+
+
+
+\newcommand*{\firstexaminer}{Prof. Dr. Stefan Henkler} % Ort
+\newcommand*{\secondexaminer}{Dipl-Ing Kristian Rother} % Ort
+\newcommand*{\mydate}{\today} % Datum
+
+
+% ============= Dokumentbeginn =============
+
+\begin{document}
+
+% Seiten ohne Kopf- und Fußzeile sowie Seitenzahl
+\pagestyle{empty}
+
+\include{latex/01_titel}	% Einbinden der Titelseite
+\newpage 					% Um Seite nach der Titelseite einzubinden -> bei eigener Titelseite und nicht der Latex-Version erforderlich
+\thispagestyle{empty}
+\quad 
+\newpage
+%\pagenumbering{arab}
+ 
+\cleardoubleoddpage
+
+
+\chapter*{Affidavit}%<in english>
+I, Luca Brodo, herewith declare that I have composed the present paper and work by myself and without use of any other than the cited sources and aids. Sentences or parts of sentences quoted literally are marked as such; other references with regard to the statement and scope are indicated by full details of the publications concerned. The paper and work in the same or similar form has not been submitted to any examination body and has not been published. This paper was not yet, even in part, used in another examination or as a course performance.\\
+Lippstadt, \today\\[.6cm]
+Brodo Luca\\
+\rule[0.5em]{20em}{0.5pt}
+
+\input{src/02_Abstract}
+\renewcommand*\listfigurename{List of Figures}
+\renewcommand*\contentsname{Table of Content}
+\renewcommand*\listtablename{List of Tables}
+\tableofcontents			%Inhaltsverzeichnis
+\listoffigures				%Verzeichnis aller Bilder
+\listoftables				%Verzeichnis aller Tabellen
+\renewcommand{\figurename}{Fig.}
+%\chapter*{Abkürzungsverzeichnis}
+%	\begin{acronym}[4GDH]	% Zur Formatierung hier die längste Abkürzung des Verzeichnisses eintragen
+%		\acro{4GDH}{4th Generation District Heating} 	
+%	\end{acronym}
+
+\pagestyle{fancy}
+
+\input{src/03_Introduction}
+\input{src/04_Most_Weeds}
+\input{src/05_Weed_Mana}
+\input{src/06_Data_Tech}
+\input{src/07_Datasets}
+\input{src/08_Weed_Detection}
+%\input{src/RelatedWorks}
+%\input{src/DesignEntwurf}
+%\input{src/Implementierung}
+%\input{src/Hardware}
+
+%Literaturverzeichnis
+\newpage
+\lhead{}
+\rhead{\leftmark}
+%\addcontentsline{toc}{chapter}{Literaturverzeichnis}
+
+\renewcommand*\bibname{References}
+\addcontentsline{toc}{chapter}{References}
+\bibliography{bibliography}
+\bibliographystyle{alpha}
+
+\appendix
+
+%\include{src/anhang}
+
+\end{document}
